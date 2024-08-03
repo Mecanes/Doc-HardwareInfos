@@ -66,6 +66,8 @@ There are 4 structure-type Blueprints :
 
 ## Features & applications
 
+#### Code Example
+![CPU Example](https://github.com/Mecanes/Images/blob/main/CPU_DATA.png?raw=true)
 
 ## Licence
 
