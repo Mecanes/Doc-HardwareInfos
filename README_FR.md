@@ -60,6 +60,7 @@ Il y a 4 structure :
 > **Ses structures peuvent être utilisées dans tous vos Blueprint ( Acteur, Personnage, ... )**
 >> **Connaître au moins les bases du Blueprint (structure)**
 
+![Structure Infos](https://github.com/Mecanes/Images/blob/main/structure_infos.png?raw=true)
 
 ## Caractéristiques & applications
 
