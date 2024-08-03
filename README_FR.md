@@ -67,6 +67,22 @@ Il y a 4 structure :
 #### Code Example
 ![CPU Example](https://github.com/Mecanes/Images/blob/main/CPU_DATA.png?raw=true)
 
+### Details
+- [x] CPU
+    - Company : retourne le nom de la company , ***par example : AMD***
+    - Name : retourne le nom du prossesseur , ***par example : RYZEN***
+    - Number : retourne le nombre , ***par example : 7***
+    - Series Complet : retourne le nom complet , ***par example : 5800x***
+    - Series : retourne la series , ***par example : 5000***
+    - Core : retourne le nombre de core , ***par example : 8***
+- [x] GPU
+    - Company : retourne le nom de la company , ***par example : NVIDIA***
+    - Name : retourne le nom du prossesseur , ***par example : GEFORCE***
+    - Mark : retourne la marque , ***par example : RTX***
+    - Model : retourne le Model , ***par example : 4060 ti***
+    - Minimun Model : retourne ***par example : 4060***
+    - Series : retourne la serie , ***par example : 4000***
+
 ## Licence
 
 [MIT License](https://en.wikipedia.org/wiki/MIT_License)
