@@ -8,6 +8,7 @@
 * [Avertissement](#Avertissement)
 * [Installation](#Installation)
 * [Contenu](#Contenu)
+* [Detail](#Detail)
 * [Caractéristiques & applications](#Caractéristiques-&-applications)
 * [License](#License)
 * [Auteur](#Auteur)
@@ -67,7 +68,7 @@ Il y a 4 structure :
 #### Code Example
 ![CPU Example](https://github.com/Mecanes/Images/blob/main/CPU_DATA.png?raw=true)
 
-### Details
+### Detail
 - [x] CPU
     - Company : retourne le nom de la company , ***par exemple : AMD***
     - Name : retourne le nom du prossesseur , ***par exemple : RYZEN***
