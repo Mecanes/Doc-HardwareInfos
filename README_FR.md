@@ -69,19 +69,19 @@ Il y a 4 structure :
 
 ### Details
 - [x] CPU
-    - Company : retourne le nom de la company , ***par example : AMD***
-    - Name : retourne le nom du prossesseur , ***par example : RYZEN***
-    - Number : retourne le nombre , ***par example : 7***
-    - Series Complet : retourne le nom complet , ***par example : 5800x***
-    - Series : retourne la series , ***par example : 5000***
-    - Core : retourne le nombre de core , ***par example : 8***
+    - Company : retourne le nom de la company , ***par exemple : AMD***
+    - Name : retourne le nom du prossesseur , ***par exemple : RYZEN***
+    - Number : retourne le nombre , ***par exemple : 7***
+    - Series Complet : retourne le nom complet , ***par exemple : 5800x***
+    - Series : retourne la series , ***par exemple : 5000***
+    - Core : retourne le nombre de core , ***par exemple : 8***
 - [x] GPU
-    - Company : retourne le nom de la company , ***par example : NVIDIA***
-    - Name : retourne le nom du prossesseur , ***par example : GEFORCE***
-    - Mark : retourne la marque , ***par example : RTX***
-    - Model : retourne le Model , ***par example : 4060 ti***
-    - Minimun Model : retourne ***par example : 4060***
-    - Series : retourne la serie , ***par example : 4000***
+    - Company : retourne le nom de la company , ***par exemple : NVIDIA***
+    - Name : retourne le nom du prossesseur , ***par exemple : GEFORCE***
+    - Mark : retourne la marque , ***par exemple : RTX***
+    - Model : retourne le Model , ***par exemple : 4060 ti***
+    - Minimun Model : retourne ***par exemple : 4060***
+    - Series : retourne la serie , ***par exemple : 4000***
 
 ## Licence
 
