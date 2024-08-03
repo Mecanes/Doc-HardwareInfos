@@ -10,6 +10,7 @@
 * [Warning](#Warning)
 * [Installation](#Installation)
 * [Contents](#Contents)
+* [Details](#Details)
 * [Features & applications](#features-&-usages)
 * [License](#License)
 * [Author](#Author)
@@ -62,6 +63,22 @@ There are 4 structure-type Blueprints :
 >> **Know at least the basics of blueprint (structure)**
 
 ![Structure Infos](https://github.com/Mecanes/Images/blob/main/structure_infos.png?raw=true)
+
+### Details
+- [x] CPU
+    - Company : returns the name of the company , ***for example : AMD***
+    - Name : returns the name of the prossessor , ***for example : RYZEN***
+    - Number : returns the number , ***for example : 7***
+    - Series Complete : returns the complete name , ***for example : 5800x***
+    - Series : returns the series , ***for example : 5000***
+    - Core : returns the number of core , ***for example : 8***
+- [x] GPU
+    - Company : returns the name of the company , ***for example : NVIDIA***
+    - Name : returns the name of the prossessor , ***for example : GEFORCE***
+    - Mark : returns the brand , ***for example : RTX***
+    - Model : returns the Model , ***for example : 4060 ti***
+    - Minimun Model : returns ***for example : 4060***
+    - Series : returns the series , ***for example : 4000***
 
 
 ## Features & applications
