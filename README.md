@@ -78,3 +78,5 @@ There are 4 structure-type Blueprints :
 [Mecanes](https://x.com/MecanesFr)
 
 ## History
+
+- [x] [03/08/2024] Creation of official documentation
