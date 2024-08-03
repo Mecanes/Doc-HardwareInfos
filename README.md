@@ -22,7 +22,7 @@ The "Hardware Info" plugin is a powerful and intuitive solution for retrieving a
 
 ## Objective
 
-L'objectif de "Hardware Info" est de fournir des détails sur le matériel des joueurs pour optimiser les performances et résoudre les problèmes.
+The objective of "Hardware Info" is to provide details of players' hardware to optimize performance and solve problems.
 
 ## Requirement
 
