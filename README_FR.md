@@ -64,6 +64,8 @@ Il y a 4 structure :
 
 ## Caractéristiques & applications
 
+#### Code Example
+![CPU Example](https://github.com/Mecanes/Images/blob/main/CPU_DATA.png?raw=true)
 
 ## Licence
 
