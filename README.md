@@ -10,6 +10,7 @@
 * [Warning](#Warning)
 * [Installation](#Installation)
 * [Contents](#Contents)
+* [Advantages and uses](#Advantages-and-uses)
 * [Details](#Details)
 * [Features & applications](#features-&-usages)
 * [License](#License)
@@ -63,6 +64,15 @@ There are 4 structure-type Blueprints :
 >> **Know at least the basics of blueprint (structure)**
 
 ![Structure Infos](https://github.com/Mecanes/Images/blob/main/structure_infos.png?raw=true)
+
+## Advantages and uses
+***Advantage*** :
+* **Improved server performance**: Quickly identify weak hardware configurations and optimize performance accordingly.
+* **Simplified technical support**: Easier diagnosis of hardware problems, enabling faster and more accurate assistance.
+
+***Use cases*** :
+* **Game developers**: Use hardware data to adapt and optimize your game for the most common hardware configurations.
+* **Gamer communities**: Offer enhanced technical support by quickly identifying hardware problems.
 
 ### Details
 - [x] CPU
