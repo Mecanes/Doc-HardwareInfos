@@ -63,7 +63,7 @@ Il y a 4 structure :
 
 ![Structure Infos](https://github.com/Mecanes/Images/blob/main/structure_infos.png?raw=true)
 
-## Caractéristiques & applications
+## Caractéristiques-&-applications
 
 #### Code Example
 ![CPU Example](https://github.com/Mecanes/Images/blob/main/CPU_DATA.png?raw=true)
