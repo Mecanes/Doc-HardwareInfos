@@ -9,7 +9,7 @@
 * [Installation](#Installation)
 * [Contenu](#Contenu)
 * [Detail](#Detail)
-* [Caractéristiques & applications](#Caractéristiques-&-applications)
+* [Caractéristiques & applications](#Caractéristiques-et-applications)
 * [License](#Licence)
 * [Auteur](#Auteur)
 * [Histoire](#Histoire)
@@ -63,7 +63,7 @@ Il y a 4 structure :
 
 ![Structure Infos](https://github.com/Mecanes/Images/blob/main/structure_infos.png?raw=true)
 
-## Caractéristiques-&-applications
+## Caractéristiques et applications
 
 #### Code Example
 ![CPU Example](https://github.com/Mecanes/Images/blob/main/CPU_DATA.png?raw=true)
