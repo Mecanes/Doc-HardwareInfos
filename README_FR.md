@@ -88,7 +88,7 @@ Il y a 4 structure :
 
 [MIT License](https://en.wikipedia.org/wiki/MIT_License)
 
-## Autheur
+## Auteur
 
 [Mecanes](https://x.com/MecanesFr)
 
