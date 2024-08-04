@@ -8,6 +8,7 @@
 * [Avertissement](#Avertissement)
 * [Installation](#Installation)
 * [Contenu](#Contenu)
+* [Avantage et utilisation](#Avantage-et-utilisation)
 * [Detail](#Detail)
 * [Caractéristiques & applications](#Caractéristiques-et-applications)
 * [License](#Licence)
@@ -62,6 +63,15 @@ Il y a 4 structure :
 >> **Connaître au moins les bases du Blueprint (structure)**
 
 ![Structure Infos](https://github.com/Mecanes/Images/blob/main/structure_infos.png?raw=true)
+
+## Avantage et utilisation
+***Avantage*** :
+* **Amélioration des performances du serveur** : Identifiez rapidement les configurations matérielles faibles et optimisez les performances en conséquence.
+* **Support technique simplifié** : Facilite le diagnostic des problèmes matériels, permettant une assistance plus rapide et plus précise.
+
+***Cas d'utilisation*** :
+* **Développeurs de jeux** : Utilisez les données matérielles pour adapter et optimiser votre jeu en fonction des configurations matérielles les plus courantes.
+* **Communautés de joueurs** : Offrez un support technique amélioré en identifiant rapidement les problèmes matériels.
 
 ## Caractéristiques et applications
 
