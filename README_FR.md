@@ -10,7 +10,7 @@
 * [Contenu](#Contenu)
 * [Detail](#Detail)
 * [Caractéristiques & applications](#Caractéristiques-&-applications)
-* [License](#License)
+* [License](#Licence)
 * [Auteur](#Auteur)
 * [Histoire](#Histoire)
 
