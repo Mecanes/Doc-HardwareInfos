@@ -106,4 +106,5 @@ Il y a 4 structure :
 
 ## Histoire
 
+- [x] [16/08/2024] Nouvelle mise à jour du plugin, la version 0.2 sera bientôt disponible sur la place de marché
 - [x] [03/08/2024] Creation de la Documentation officiel
