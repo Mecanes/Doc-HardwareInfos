@@ -58,11 +58,13 @@ Il y a 4 structure :
 * Get CPU Data
 * Get GPU Data
 * Get Ram Data
+* Get data from the player's screen
+* Get Player FPS
 
 > **Ses structures peuvent être utilisées dans tous vos Blueprint ( Acteur, Personnage, ... )**
 >> **Connaître au moins les bases du Blueprint (structure)**
 
-![Structure Infos](https://github.com/Mecanes/Images/blob/main/structure_infos.png?raw=true)
+![Structure Infos](https://github.com/Mecanes/Images/blob/main/UE.png)
 
 ## Avantage et utilisation
 ***Avantage*** :
