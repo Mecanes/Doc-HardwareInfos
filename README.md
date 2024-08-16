@@ -59,6 +59,8 @@ There are 4 structure-type Blueprints :
 * Get CPU Data
 * Get GPU Data
 * Get Ram Data
+* Get data from the player's screen
+* Get Player FPS
 
 > **Its structures can be used in all your blueprints ( Actor, Character, ... )**
 >> **Know at least the basics of blueprint (structure)**
