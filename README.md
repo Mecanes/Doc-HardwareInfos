@@ -65,7 +65,7 @@ There are 4 structure-type Blueprints :
 > **Its structures can be used in all your blueprints ( Actor, Character, ... )**
 >> **Know at least the basics of blueprint (structure)**
 
-![Structure Infos](https://github.com/Mecanes/Images/blob/main/structure_infos.png?raw=true)
+![Structure Infos](https://github.com/Mecanes/Images/blob/main/UE.png)
 
 ## Advantages and uses
 ***Advantage*** :
