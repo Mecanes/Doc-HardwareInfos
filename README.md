@@ -108,5 +108,5 @@ There are 4 structure-type Blueprints :
 
 ## History
 
-- [x] [16/08/2024] New plugin update, version 0.2 will soon be available in the marketplace
+- [x] [16/08/2024] New plugin update, Version 0.2 is now available on the marketplace
 - [x] [03/08/2024] Creation of official documentation
