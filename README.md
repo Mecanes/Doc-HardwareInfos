@@ -39,12 +39,12 @@ Test done :
 CPU :
 
 - [x] RYZEN 5000
-- [ ] INTEL
+- [x] INTEL
 
 GPU:
 
-- [x] NVIDIA 4000
-- [ ] AMD
+- [x] NVIDIA 4000[***new***] - test version
+- [x] AMD[***new***] - test version
 
 
 ## Installation
@@ -108,5 +108,6 @@ There are 4 structure-type Blueprints :
 
 ## History
 
-- [x] [16/08/2024] New plugin update, Version 0.2 is now available on the marketplace
+- [x] [26/08/2024] New update, Version 0.3 : **Intel processor and AMD graphics card support**
+- [x] [16/08/2024] New update, Version 0.2 
 - [x] [03/08/2024] Creation of official documentation
