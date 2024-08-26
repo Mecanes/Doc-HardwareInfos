@@ -37,12 +37,12 @@ Test done :
 CPU :
 
 - [x] RYZEN 5000
-- [ ] INTEL
+- [x] INTEL[***nouveau***] - Teste
 
 GPU:
 
 - [x] NVIDIA 4000
-- [ ] AMD
+- [x] AMD[***nouveau***] - Teste
 
 
 ## Installation
@@ -105,6 +105,6 @@ Il y a 4 structure :
 [Mecanes](https://x.com/MecanesFr)
 
 ## Histoire
-
-- [x] [16/08/2024] Nouvelle mise à jour du plugin, la version 0.2 est disponible sur le marketplace
+- [x] [26/08/2024] Nouvelle mise à jour, Version 0.3 : **Prise en charge des processeurs Intel et des cartes graphiques AMD**
+- [x] [16/08/2024] Nouvelle mise à jour , la version 0.2 est disponible
 - [x] [03/08/2024] Creation de la Documentation officiel
