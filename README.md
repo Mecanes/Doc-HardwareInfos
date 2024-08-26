@@ -39,11 +39,11 @@ Test done :
 CPU :
 
 - [x] RYZEN 5000
-- [x] INTEL
+- [x] INTEL[***new***] - test version
 
 GPU:
 
-- [x] NVIDIA 4000[***new***] - test version
+- [x] NVIDIA 4000
 - [x] AMD[***new***] - test version
 
 
