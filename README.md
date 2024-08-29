@@ -104,7 +104,7 @@ There are 4 structure-type Blueprints :
 
 ## Author
 
-[Mecanes](https://x.com/MecanesFr)
+[Mecanes](https://linktr.ee/mecanes)
 
 ## History
 
