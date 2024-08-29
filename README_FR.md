@@ -102,7 +102,7 @@ Il y a 4 structure :
 
 ## Auteur
 
-[Mecanes](https://x.com/MecanesFr)
+[Mecanes](https://linktr.ee/mecanes)
 
 ## Histoire
 - [x] [26/08/2024] Nouvelle mise à jour, Version 0.3 : **Prise en charge des processeurs Intel et des cartes graphiques AMD**
