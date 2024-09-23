@@ -60,6 +60,8 @@ Il y a 4 structure :
 * Get Ram Data
 * Get data from the player's screen
 * Get Player FPS
+* Get Current FPS Limit [ *New* ]
+* Is VSync Enabled [ *New* ]
 
 > **Ses structures peuvent être utilisées dans tous vos Blueprint ( Acteur, Personnage, ... )**
 >> **Connaître au moins les bases du Blueprint (structure)**
