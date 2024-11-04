@@ -36,12 +36,12 @@ Test done :
 
 CPU :
 
-- [x] RYZEN 5000
+- [x] RYZEN
 - [x] INTEL[***nouveau***] - Teste
 
 GPU:
 
-- [x] NVIDIA 4000
+- [x] NVIDIA
 - [x] AMD[***nouveau***] - Teste
 
 
