@@ -38,12 +38,12 @@ Test done :
 
 CPU :
 
-- [x] RYZEN 5000
+- [x] RYZEN
 - [x] INTEL[***new***] - test version
 
 GPU:
 
-- [x] NVIDIA 4000
+- [x] NVIDIA
 - [x] AMD[***new***] - test version
 
 
@@ -61,8 +61,8 @@ There are 4 structure-type Blueprints :
 * Get Ram Data
 * Get data from the player's screen
 * Get Player FPS
-* Get Current FPS Limit [ New ]
-* Is VSync Enabled [ New ]
+* Get Current FPS Limit [ ***New*** ]
+* Is VSync Enabled [ ***New*** ]
 
 > **Its structures can be used in all your blueprints ( Actor, Character, ... )**
 >> **Know at least the basics of blueprint (structure)**
