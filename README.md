@@ -110,6 +110,7 @@ There are 4 structure-type Blueprints :
 
 ## History
 
+- [x] [07/02/2025] New update : **Optimization**
 - [x] [26/08/2024] New update, Version 0.3 : **Intel processor and AMD graphics card support**
 - [x] [16/08/2024] New update, Version 0.2 
 - [x] [03/08/2024] Creation of official documentation
